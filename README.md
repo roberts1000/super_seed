@@ -8,6 +8,10 @@ TODO: Delete this and the text above, and describe your gem
 
 This gem uses [semver](http:/semver.org) 2.0.0.
 
+## Supported Ruby Versions
+
+Ruby 2.6.0+.
+
 ## Supported Rails Versions
 
 Rails 4+.
