@@ -1,6 +1,6 @@
 # CHANGELOG
 
-Issues marked as **(Internal)** mark internal development work. Issues are tracked at https://github.com/roberts1000/super_seed/issues.
+Issues are tracked at https://github.com/roberts1000/super_seed/issues. Issues marked as **(Internal)** only affect development.
 
 ## Next Release
 
