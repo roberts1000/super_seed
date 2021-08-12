@@ -4,6 +4,7 @@ Issues are tracked at https://github.com/roberts1000/super_seed/issues. Issues m
 
 ## Next Release
 
+1. [#18](../../issues/18): Use `rspec_stater` `~> 2.0`. **(Internal)**
 1. [#13](../../issues/13): Set `required_ruby_version` to `>= 2.6.0`.
 1. [#9](../../issues/9): Use `puma` `~> 5.4`. **(Internal)**
 1. [#7](../../issues/7): Use `rubocop_plus` `~> 2.0`. **(Internal)**
