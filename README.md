@@ -6,15 +6,18 @@ TODO: Delete this and the text above, and describe your gem
 
 ## Versioning Scheme
 
-This gem uses [semver](http:/semver.org) 2.0.0.
+Releases are versioned using [SemVer 2.0.0](https://semver.org/spec/v2.0.0.html) with the following caveats:
+
+1. Support for a Ruby version, that reaches EOL, is removed in a major or minor release.
+1. Support for a Ruby on Rails version, that reaches EOL, is removed in a major or minor release.
 
 ## Supported Ruby Versions
 
-Ruby 2.6.0+.
+Ruby 2.6.0+
 
-## Supported Rails Versions
+## Supported Ruby on Rails Versions
 
-Rails 4+.
+Rails 5.1+
 
 ## Installation
 
@@ -44,8 +47,4 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/super_seed.
-
-## License
-
-The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+Bug reports and pull requests are welcome on GitHub at https://github.com/roberts1000/super_seed.
